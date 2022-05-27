@@ -1,0 +1,15 @@
+/home/sebas/Repositorios/Encapsulamiento/bin/Debug/net6.0/Encapsulamiento
+/home/sebas/Repositorios/Encapsulamiento/bin/Debug/net6.0/Encapsulamiento.deps.json
+/home/sebas/Repositorios/Encapsulamiento/bin/Debug/net6.0/Encapsulamiento.runtimeconfig.json
+/home/sebas/Repositorios/Encapsulamiento/bin/Debug/net6.0/Encapsulamiento.dll
+/home/sebas/Repositorios/Encapsulamiento/bin/Debug/net6.0/Encapsulamiento.pdb
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/Encapsulamiento.csproj.AssemblyReference.cache
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/Encapsulamiento.AssemblyInfoInputs.cache
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/Encapsulamiento.AssemblyInfo.cs
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/Encapsulamiento.csproj.CoreCompileInputs.cache
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/Encapsulamiento.dll
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/refint/Encapsulamiento.dll
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/Encapsulamiento.pdb
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/Encapsulamiento.genruntimeconfig.cache
+/home/sebas/Repositorios/Encapsulamiento/obj/Debug/net6.0/ref/Encapsulamiento.dll

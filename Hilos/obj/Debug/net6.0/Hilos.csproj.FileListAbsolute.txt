@@ -1,0 +1,15 @@
+/home/sebas/Repositorios/Hilos/bin/Debug/net6.0/Hilos
+/home/sebas/Repositorios/Hilos/bin/Debug/net6.0/Hilos.deps.json
+/home/sebas/Repositorios/Hilos/bin/Debug/net6.0/Hilos.runtimeconfig.json
+/home/sebas/Repositorios/Hilos/bin/Debug/net6.0/Hilos.dll
+/home/sebas/Repositorios/Hilos/bin/Debug/net6.0/Hilos.pdb
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/Hilos.csproj.AssemblyReference.cache
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/Hilos.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/Hilos.AssemblyInfoInputs.cache
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/Hilos.AssemblyInfo.cs
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/Hilos.csproj.CoreCompileInputs.cache
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/Hilos.dll
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/refint/Hilos.dll
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/Hilos.pdb
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/Hilos.genruntimeconfig.cache
+/home/sebas/Repositorios/Hilos/obj/Debug/net6.0/ref/Hilos.dll
