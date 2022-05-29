@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Encapsulamiento"
+    "\\Encapsulamiento\\bin",
+    "\\HolaMundo"
   ],
-  "SelectedNode": "\\Encapsulamiento\\Encapsulamiento.csproj",
+  "SelectedNode": "\\HolaMundo\\HolaMundo.csproj",
   "PreviewInSolutionExplorer": false
 }
