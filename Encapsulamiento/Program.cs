@@ -14,3 +14,5 @@ cuenta2.numeroCBU = 987654321;
 Console.WriteLine("Cuenta 1: " + cuenta1.titularCta + " - " + cuenta1.cuit + " - " + cuenta1.saldo + " - " + cuenta1.numeroCBU);
 
 Console.WriteLine("Cuenta 2: " + cuenta2.titularCta + " - " + cuenta2.cuit + " - " + cuenta2.saldo + " - " + cuenta2.numeroCBU);
+
+Console.ReadLine();
