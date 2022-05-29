@@ -1,10 +1,10 @@
-﻿
+﻿//creamos un objeto de la clase CuentaBancaria
 CuentaBancaria cuenta1 = new CuentaBancaria();
 cuenta1.titularCta = "Juan Perez";
 cuenta1.cuit = "20-12345678-9";
 cuenta1.saldo = 1000.50;
 cuenta1.numeroCBU = 123456789;
-
+//creamos un segundo  objeto de la clase CuentaBancaria
 CuentaBancaria cuenta2 = new CuentaBancaria();
 cuenta2.titularCta = "Maria Gomez";
 cuenta2.cuit = "20-98765432-9";
